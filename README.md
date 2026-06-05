@@ -38,7 +38,3 @@
 - **ПК**: Chrome, Firefox, Safari, Edge
 - **Мобильные**: iOS Safari, Chrome Android
 - **Требования**: HTML5, CSS3, JavaScript (ES6)
-
----
-
-**Создано с ❤️ для поклонников Pusheen**
